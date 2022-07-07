@@ -1,1 +1,3 @@
-# CSCI343_ComputerArchitecture
+# Computer Architecture
+
+Instruction set architectures, including RISC, CISC, stack, and VLIW architectures. The memory hierarchy, including cache design and performance issues, shared memory organizations, and bus structures. Models of parallel computing, including multiprocessors, multicomputers, multivector, SIMD, PRAM, and MIMD architectures. Pipelining models, including clocking and timing, instruction pipeline design, arithmetic pipeline design, and superscalar pipelining
