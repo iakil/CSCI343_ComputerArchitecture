@@ -21,11 +21,11 @@ int i;
 
 // Scenerio: 1
 
-// for (i=0;i<3; i++){
-//     fork();  // Inside a for loop is same as Without for loop 3 fork
-//              // For example: fork(); fork(); fork;
-//   }  // End of the loop 8 process created (7 Child and 1 Parent)
-// printf("Hello World\n");  // Output: 8 Hello World
+for (i=0;i<3; i++){
+    fork();  // Inside a for loop is same as Without for loop 3 fork
+             // For example: fork(); fork(); fork;
+  }  // End of the loop 8 process created (7 Child and 1 Parent)
+printf("Hello World\n");  // Output: 8 Hello World
 
 
 // Scenerio 1    V2:
